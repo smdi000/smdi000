@@ -1,16 +1,22 @@
-## Hi there 👋
+# Eric Wang
 
-<!--
-**smdi000/smdi000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Product × Engineering**  
+Building practical software systems and AI-enabled products.
 
-Here are some ideas to get you started:
+## About
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Engineering background; interested in Product Management, AI Product, and Technical Product roles. I work from problem definition through technical decisions to implementation.
+
+## Selected Work
+
+- [RT-Thread embedded firmware](https://github.com/smdi000/RTTnew-experience) — an STM32H742 workspace with AD7606, IMU, and motor application modules.
+
+More product case studies coming soon.
+
+## Engineering
+
+C · RT-Thread · STM32 · Embedded systems
+
+## Current Focus
+
+Product Management · AI Product · Technical Product · B2B Software
